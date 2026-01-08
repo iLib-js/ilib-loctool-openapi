@@ -1,3 +1,7 @@
+
+> :warning: **Deprecation Notice** :warning:
+> This repository has been deprecated. Please use the corresponding package from the [iLib-js monorepo](https://github.com/iLib-js/ilib-mono) instead.
+
 # ilib-loctool-openapi
 
 Ilib loctool plugin to parse and localize OpenAPI json files.
